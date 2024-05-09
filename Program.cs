@@ -1,4 +1,7 @@
-﻿namespace LAB14
+// Samuel Batchelor
+
+
+namespace LAB14
 {
     internal class Program
     {
